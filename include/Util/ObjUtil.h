@@ -117,6 +117,8 @@ namespace MR
     void appearPowerStarContinueCurrentDemo(const NameObj *, const TVec3f &);
     void appearPowerStarWithoutDemo(const NameObj *);
 
+    void appearEventPowerStar(const char*, s32, const TVec3f *, bool, bool, s32);
+
     void requestAppearPowerStar(const NameObj *, const TVec3f &);
     void requestAppearPowerStar(const NameObj *, s32, const TVec3f &);
     void requestAppearPowerStar(const NameObj *, const LiveActor *, f32);

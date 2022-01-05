@@ -69,6 +69,7 @@ public:
 	virtual bool receiveMsgPush(HitSensor *, HitSensor *);
 	virtual bool receiveMsgEnemyAttack(u32, HitSensor *, HitSensor *);
 	virtual bool receiveMsgOtherAttack(u32, HitSensor *, HitSensor *);
+	TVec3f* getGravityVec() const;
 	// three more virtual functions
 
 	// todo: tons of functions to be documented
