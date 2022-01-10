@@ -7,6 +7,7 @@ class DepthOfFieldBlur;
 class CenterScreenBlur;
 class PostFog;
 class PostOutline;
+class LayoutActor;
 
 namespace MR
 {
@@ -124,4 +125,6 @@ namespace MR
 	void requestEndMissDemo();
 	void executeOnWelcomeAndRetry();
 	wchar_t* addPictureFontCode(wchar_t *, int);
+
+	void setTextBoxFormatRecursive(LayoutActor* layout, const char* paneName, const wchar_t* string ...);
 };
