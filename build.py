@@ -34,7 +34,6 @@ compiler_options = [
     "-O4,s",
     "-fp hard",
     "-func_align 4",
-    "-str pool",
     "-sdata 0",
     "-sdata2 0",
     f"-D{region}",
