@@ -180,8 +180,4 @@ namespace MR
 
     void stopStageBGM(u32);
     void stopSubBGM(u32);
-
-    //This function's actual name is not known!
-    void goToGalaxyWithoutScenarioSelect(const char*, s32, s32, s32);
-    
 };
