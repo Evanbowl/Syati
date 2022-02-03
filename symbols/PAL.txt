@@ -36127,3 +36127,4 @@ typeInfo__Q34nw4r3lyt6Window=0x807DBD08
 typeInfo__Q34nw4r3lyt8Bounding=0x807DBD10
 loadToMainRAM__2MRFPCcPUcP7JKRHeapi=0x80025970
 mountArchive__2MRFPCcP7JKRHeapb=0x80025A70
+unk_ShowWorldMap__2MRFP7NameObj=0x804EF3A0
