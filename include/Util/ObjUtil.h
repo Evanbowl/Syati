@@ -180,7 +180,4 @@ namespace MR
 
     void stopStageBGM(u32);
     void stopSubBGM(u32);
-
-    //This function's actual name is not known, to my knowledge!
-    void unk_ShowWorldMap(NameObj*);
 };
